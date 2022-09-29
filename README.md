@@ -1,2 +1,2 @@
 # CSE110
-Java is my favourite language.
+Java is one of my favourite languages.
