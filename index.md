@@ -30,6 +30,6 @@ Three companies that I like
 [a link](# As a programmer)
 
 Here are some task lists that I have made so far
-- [] Eat breakfast
+- [ ] Eat breakfast
 - [x] Work Out
 - [ ] Finish Assignment
